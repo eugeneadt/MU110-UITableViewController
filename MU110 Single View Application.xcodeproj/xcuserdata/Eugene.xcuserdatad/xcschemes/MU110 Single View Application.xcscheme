@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "441250CE19BF13B6008A05DB"
-               BuildableName = "MU110 UITableViewController.app"
-               BlueprintName = "MU110 UITableViewController"
-               ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+               BuildableName = "MU110 Single View Application.app"
+               BlueprintName = "MU110 Single View Application"
+               ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "441250E019BF13B6008A05DB"
-               BuildableName = "MU110 UITableViewControllerTests.xctest"
-               BlueprintName = "MU110 UITableViewControllerTests"
-               ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+               BuildableName = "MU110 Single View ApplicationTests.xctest"
+               BlueprintName = "MU110 Single View ApplicationTests"
+               ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "441250E019BF13B6008A05DB"
-               BuildableName = "MU110 UITableViewControllerTests.xctest"
-               BlueprintName = "MU110 UITableViewControllerTests"
-               ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+               BuildableName = "MU110 Single View ApplicationTests.xctest"
+               BlueprintName = "MU110 Single View ApplicationTests"
+               ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "441250CE19BF13B6008A05DB"
-            BuildableName = "MU110 UITableViewController.app"
-            BlueprintName = "MU110 UITableViewController"
-            ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+            BuildableName = "MU110 Single View Application.app"
+            BlueprintName = "MU110 Single View Application"
+            ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "441250CE19BF13B6008A05DB"
-            BuildableName = "MU110 UITableViewController.app"
-            BlueprintName = "MU110 UITableViewController"
-            ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+            BuildableName = "MU110 Single View Application.app"
+            BlueprintName = "MU110 Single View Application"
+            ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "441250CE19BF13B6008A05DB"
-            BuildableName = "MU110 UITableViewController.app"
-            BlueprintName = "MU110 UITableViewController"
-            ReferencedContainer = "container:MU110 UITableViewController.xcodeproj">
+            BuildableName = "MU110 Single View Application.app"
+            BlueprintName = "MU110 Single View Application"
+            ReferencedContainer = "container:MU110 Single View Application.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

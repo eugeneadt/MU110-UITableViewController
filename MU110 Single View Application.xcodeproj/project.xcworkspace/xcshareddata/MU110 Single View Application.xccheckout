@@ -12,20 +12,24 @@
 	<dict>
 		<key>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</key>
 		<string>https://github.com/eugeneadt/MU110-Single-View-Application.git</string>
+		<key>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</key>
+		<string>https://github.com/eugeneadt/MU110-UITableViewController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MU110 Single View Application.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</key>
+		<string>../../../MU110-Single-View-Application</string>
+		<key>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/eugeneadt/MU110-Single-View-Application.git</string>
+	<string>https://github.com/eugeneadt/MU110-UITableViewController.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</string>
+	<string>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MU110-Single-View-Application</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MU110-UITableViewController</string>
 		</dict>
 	</array>
 </dict>

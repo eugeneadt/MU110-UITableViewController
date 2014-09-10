@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MU110 UITableViewController.xcodeproj">
+      location = "self:MU110 Single View Application.xcodeproj">
    </FileRef>
 </Workspace>
