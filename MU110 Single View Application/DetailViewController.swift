@@ -1,6 +1,6 @@
 //
 //  DetailViewController.swift
-//  Table test
+//  MU110 Single View Application
 //
 //  Created by Женя on 10.09.14.
 //  Copyright (c) 2014 iOS Lab. All rights reserved.
@@ -25,6 +25,7 @@ class DetailViewController: UIViewController {
         if let detail: AnyObject = self.detailItem {
             if let label = self.detailDescriptionLabel {
                 label.text = detail.description
+                self.navigationItem.title = detail.description
             }
         }
     }
@@ -42,4 +43,3 @@ class DetailViewController: UIViewController {
     
     
 }
-

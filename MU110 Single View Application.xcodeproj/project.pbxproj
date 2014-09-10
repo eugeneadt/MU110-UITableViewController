@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		441250D519BF13B6008A05DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441250D419BF13B6008A05DB /* AppDelegate.swift */; };
-		441250D719BF13B6008A05DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441250D619BF13B6008A05DB /* ViewController.swift */; };
+		441250D719BF13B6008A05DB /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441250D619BF13B6008A05DB /* ListViewController.swift */; };
 		441250DA19BF13B6008A05DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 441250D819BF13B6008A05DB /* Main.storyboard */; };
 		441250DC19BF13B6008A05DB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441250DB19BF13B6008A05DB /* Images.xcassets */; };
 		441250E819BF13B6008A05DB /* MU110_Single_View_ApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441250E719BF13B6008A05DB /* MU110_Single_View_ApplicationTests.swift */; };
@@ -30,7 +30,7 @@
 		441250CF19BF13B6008A05DB /* MU110 Single View Application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MU110 Single View Application.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		441250D319BF13B6008A05DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		441250D419BF13B6008A05DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		441250D619BF13B6008A05DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		441250D619BF13B6008A05DB /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		441250D919BF13B6008A05DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		441250DB19BF13B6008A05DB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		441250E119BF13B6008A05DB /* MU110 Single View ApplicationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MU110 Single View ApplicationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,7 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				441250D419BF13B6008A05DB /* AppDelegate.swift */,
-				441250D619BF13B6008A05DB /* ViewController.swift */,
+				441250D619BF13B6008A05DB /* ListViewController.swift */,
 				44D3C52719C0684D00069CC7 /* DetailViewController.swift */,
 				441250F119BF13D0008A05DB /* Storyboards */,
 				441250DB19BF13B6008A05DB /* Images.xcassets */,
@@ -224,7 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44D3C52819C0684D00069CC7 /* DetailViewController.swift in Sources */,
-				441250D719BF13B6008A05DB /* ViewController.swift in Sources */,
+				441250D719BF13B6008A05DB /* ListViewController.swift in Sources */,
 				441250D519BF13B6008A05DB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
